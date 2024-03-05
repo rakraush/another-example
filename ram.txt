@@ -4,5 +4,9 @@
       HARI BOL
       RADHE RADHE
 
+<<<<<<< HEAD
        TATA CONSULTANCY SERVICES
+=======
+    INFOSYS INDIA LIMITED
+>>>>>>> 8072840ad7491c99e2d401583f31ef79aeaf3a54
 
