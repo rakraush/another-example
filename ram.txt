@@ -1,9 +1,10 @@
-this is a new file 
 
-Hare krishna Hare Krishna Krishna Krishna Hare Hare 
-    Hare Ram Hare Ram Ram Ram Hare Hare
 
   JAI SHREE RAM
 
+<<<<<<< HEAD
       HARI BOL
+=======
+   RADHE RADHE
+>>>>>>> 261854be6a82e610048ba1ebe79539ff9ab799f0
 
