@@ -1,10 +1,6 @@
 
 
-  JAI SHREE RAM
-
-<<<<<<< HEAD
+     JAI SHREE RAM
       HARI BOL
-=======
-   RADHE RADHE
->>>>>>> 261854be6a82e610048ba1ebe79539ff9ab799f0
+      RADHE RADHE
 
